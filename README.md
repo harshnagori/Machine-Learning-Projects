@@ -19,4 +19,12 @@ This project focuses on predicting whether a person is diabetic based on clinica
 > [View Project Folder](./2_Diabetes_Prediction)
 
 ---
+
+### ✅ 3) Spam Mail Prediction  
+This project involves building a **text classification model** to distinguish between spam and non-spam emails. It uses **TF-IDF vectorization** for feature extraction and **Logistic Regression** for classification. The system is capable of classifying any new email into spam or ham with reliable accuracy.  
+
+> [View Project Folder](./3_Spam_Mail_Prediction)
+
+---
+
 More projects will be added and documented in this repository progressively.
