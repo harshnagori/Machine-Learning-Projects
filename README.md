@@ -13,4 +13,10 @@ This project involves building a binary classification model to identify whether
 
 ---
 
+### ✅ 2) Diabetes Prediction  
+This project focuses on predicting whether a person is diabetic based on clinical health parameters. The model is built using a **Support Vector Machine (SVM)** with a linear kernel. The pipeline includes data exploration, preprocessing with feature scaling, model training, evaluation, and a predictive system for real-time classification.
+
+> [View Project Folder](./2_Diabetes_Prediction)
+
+---
 More projects will be added and documented in this repository progressively.
